@@ -1,1 +1,3 @@
 # Home-Lab-2
+Network Traffic Monitoring with pfSense, Kali, and Windows  
+In this lab I built a small network using pfSense as the firewall, Kali Linux as the attacker machine, and Windows as the target system. I generated traffic from Kali to Windows and used pfSense to monitor how the firewall logged, allowed, and blocked different types of connections. Through this project I learned how network traffic flows through a firewall, how pfSense records and filters activity, and how to read firewall logs to understand what was permitted or denied. I also learned how to use Kali to create real traffic and how Windows responds to it, giving me a clearer understanding of basic network flow, firewall behavior, and how security teams analyze traffic in a real environment.
